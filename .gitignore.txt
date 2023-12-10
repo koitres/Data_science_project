@@ -1,1 +1,3 @@
 /suured_failid
+
+/data
